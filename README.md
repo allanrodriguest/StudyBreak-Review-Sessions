@@ -8,7 +8,7 @@ Study Break Review Sessions for OOP244 and BTP200 Subjects in Summer of 2020<br 
 - Make sure to mute yourself as soon as you login to the lecture <br />
 
 If you have never used BigBlueButton, please join the demo session to set your equipment on Monday June 29th at 11:00 AM by clicking on the link below. This session will be around 30 minutes long: <br />
-[Join Demo Session (Currently closed)]()<br />
+[Join Demo Session](https://connect.rna2.blindsidenetworks.com/invite/to?c=qbtxk9J5kXlNfaDULCJ-u7F7kCvNqQAHPDj3So51sv0&m=c9ff9a7006b2b5d59ab9fadea2ebc0f024747f59&t=1593441986122&u=senecacollege)<br />
 ## Date and time
 There will be 2 review sessions during the study break. Each session will be around 3 hours long.
 ## Review Topics
