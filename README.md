@@ -11,6 +11,19 @@ If you have never used BigBlueButton, please join the demo session to set your e
 [Join Demo Session (Currently closed)]()<br />
 ## Date and time
 There will be 2 review sessions during the study break. Each session will be around 3 hours long.
+## Review Topics
+- Multiplatform, why no error in one and error in another platform
+- Pointers
+- this
+- Pass by reference, address and Value
+- Operator overloading
+- Friends
+- Forward Declaration
+- DMA (Classes with resources)
+- Copy Constructors
+- Debugging tips, Visual studio
+- Project review
+- Pointer to pointers (if we have time)
 ### Tuesday June 30th, 13:00 - 16:00   
 In this session we will discuss with the students and figure out what topics we need to review and then we will start the review lectures.
 ### Thursday July 2nd, 13:00 - 16:00
